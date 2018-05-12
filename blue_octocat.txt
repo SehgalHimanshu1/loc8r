@@ -1,1 +1,2 @@
 blue octocat
+this is test file where i am trying to see how the command works
